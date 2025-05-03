@@ -12,7 +12,7 @@ interface Props{
 
 function PlatformIconList({platforms}:Props) {
 
-  const iconMap : {[key : string]:IconType} = {
+  const iconMap : Record<string,IconType> = {
     pc : FaWindows,
     playstation : FaPlaystation,
     xbox : FaXbox,
