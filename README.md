@@ -15,7 +15,9 @@ git clone https://github.com/haddadiamirhosein/React-course-projects.git
 وارد پوشه پروژه شوید:
 
 cd React-course-projects
+
 وابستگی‌های پروژه را نصب کنید:
+
 
 npm install
 پروژه را اجرا کنید:
